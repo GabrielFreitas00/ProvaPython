@@ -1,7 +1,7 @@
 def lista_de_numeros_pares(lista: list) -> list:
     lista_retorno = []
     for item in lista:
-        try:
+        try:  # ultilizei a mesma logica da atividade 1, caso não seja convertido o valor para INT, ele não entara para o calculo.
             valor = int(item)
             if valor % 2 == 0:
                 lista_retorno.append(valor)
