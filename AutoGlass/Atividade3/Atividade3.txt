@@ -1,0 +1,8 @@
+Nas linhas 1 e 2, e feito as importações da bibliotecas, requestes para utlização de API e Json para a transformar ou ultilizar objetos do json, na linha 4
+e definido um valor para a variavel url, na linha 6 e 7 e definido um dicionario para as variaseis, na linha 8, e criado um varivael(Objeto) para realizar a consulta
+na API, para o no request, por ser um post, o varivel payload, tem o dicinario, convertido para json para ser enviado no post, como no request, os argumentos para execução
+devem ser definidos caso não estiver na ordem, como a url e a primeiro argumento não e necessario referenciala, mas no caso da data e do headers eles devem ser referenciados
+pois não estão na ordem de argumetos exata, na linha 11 e feito um If para saber se foi com sucesso e concluida a req codigo 200, após isso na linha 12 caso seja codigo 200 ira subistituir
+a variavel resp para um objeto json, e o codigo e finalizado na linha 13 fazendo um print do conteudo da resposta API.
+
+Resumindo o codigo trata-se de um consumo de uma API realizando um POST e imprimindo o conteudo da resposta caso a resposta seja code http 200.
