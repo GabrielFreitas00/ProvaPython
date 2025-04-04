@@ -1,5 +1,7 @@
 # Prova Python
-Me chamo Gabriel Bernardo Freitas, e aqui está a resolução da questão 4 para a explicação do projeto.
+Me chamo Gabriel Bernardo Freitas, e aqui está a resolução da questão 4 para a explicação das pasta de um projeto fictício.
+
+Ultilizei o proprio readme para ficar melhor a visualuzação, dentro de cada codigo, tem alguns comentarios, explicando a logica que ultilizei para a implementação.
 
 # Explicações para a Atividade 4
 
